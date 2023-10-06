@@ -1,0 +1,59 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f5f5f5;
+  }
+  
+  header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 2rem;
+  }
+  
+  h1 {
+    margin: 0;
+  }
+  
+  .about,
+  .experience,
+  .education,
+  .contact {
+    padding: 2rem;
+    background-color: #fff;
+    margin: 1rem;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  h2 {
+    margin-top: 0;
+  }
+  
+  .job,
+  .school {
+    margin-bottom: 1.5rem;
+  }
+  
+  .date {
+    color: #888;
+  }
+  
+  footer {
+    text-align: center;
+    padding: 1rem;
+    background-color: #333;
+    color: #fff;
+  }
+
+  img {
+    height: 300px;
+    width: 225px;
+    text-align: right;
+  }
+  
+  .about-content {
+    width: 100%;
+  }
+
